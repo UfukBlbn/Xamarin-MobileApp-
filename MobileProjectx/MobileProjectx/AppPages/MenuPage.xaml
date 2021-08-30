@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileProjectx.AppPages.MenuPage"
+             Title="Coffes"
+             IconImageSource="coffelog.png">
+    <StackLayout>
+        
+        <ListView ItemsSource="{Binding Coffes}"  HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                    <RowDefinition Height="*"></RowDefinition>
+                                    <RowDefinition Height="*"></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                    <ColumnDefinition Width="*" ></ColumnDefinition>
+                                    <ColumnDefinition Width="*" ></ColumnDefinition>
+                                    
+                                </Grid.ColumnDefinitions>
+                                <Image Grid.RowSpan="2" Source="{Binding URL}"></Image>
+                                <Label Text="{Binding Name}" Grid.Row="0" Grid.Column="1"/>
+                                <Label Grid.Column="2" Grid.Row="0" Text="{Binding typeofCoffe}" ></Label>
+                               
+                                <Label Text="{Binding Money} " Grid.Column="1" Grid.Row="1" />
+                                <Button Text="Add" Grid.Column="3" Grid.Row="1"  BackgroundColor="Orange" BorderColor="Red" Clicked="Button_Clicked"  ></Button>
+                               
+                            </Grid>
+                            
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

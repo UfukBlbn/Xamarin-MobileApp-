@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileProjectx.AppPages.BasketPage"
+             Title="Addres"
+             IconImageSource="location.png">
+    <StackLayout>
+        <StackLayout>
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Start">
+                <Image x:Name="imgBanner" Source="address.png" HeightRequest="90"  Margin="0,0,0,0" ></Image>
+
+                <Label Margin="0,0,0,0" Text="Add Address" FontAttributes="Bold" FontSize="Large" TextColor="Gray" HorizontalTextAlignment="Center" ></Label>
+                <Entry x:Name="txtPersonId" Placeholder="Address Id For Delete or Update"></Entry>
+                <Entry x:Name="txtName" Placeholder="Enter Your Address"></Entry>
+
+                <StackLayout  HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Button x:Name="btnAdd" WidthRequest="120"  BackgroundColor="#5eba7d" Text="Add Address" Clicked="btnAdd_Clicked" />
+                    <Button x:Name="btnRead" WidthRequest="120"  BackgroundColor="#5eba7d" Text="Read Address" Clicked="btnRead_Clicked" />
+                </StackLayout>
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Button x:Name="btnUpdate" WidthRequest="120"  BackgroundColor="#5eba7d" Text="Update Address" Clicked="btnUpdate_Clicked"/>
+                    <Button x:Name="btnDelete" WidthRequest="120" BackgroundColor="#5eba7d" Text="Delete Address" Clicked="btnDelete_Clicked" />
+                </StackLayout>
+               
+                <ListView x:Name="lstPersons">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell Text="{Binding Name}" Detail="{Binding PersonID}"></TextCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+                <StackLayout>
+
+                    <Label Margin="0,0,0,30" Text=" Write your address ın here TO GET A COFFE :)" FontAttributes="Bold"  FontSize="Medium" TextColor="Gray" HorizontalTextAlignment="Center" ></Label>
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

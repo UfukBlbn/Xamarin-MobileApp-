@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileProjectx.AppPages.PaymentPage"
+             Title="Pay"
+             IconImageSource="card.png">
+    <ContentPage.Content>
+
+        
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Start">
+            <Image x:Name="imgBanner" Source="credit.png" HeightRequest="150"  Margin="0,0,0,0" ></Image>
+
+            <Label Margin="0,0,0,0" Text="Add Credit Card Information" FontAttributes="Bold" FontSize="Large" TextColor="Gray" HorizontalTextAlignment="Center" ></Label>
+                <Entry Margin="0,0,0,0" x:Name="adresseID" Placeholder="Enter Your Card Number"></Entry>
+                <Entry  Margin="0,0,0,0" x:Name="txtAddressName" Placeholder="Enter Your Name"></Entry>
+            <Entry Margin="0,0,0,0"  Placeholder="CVV"></Entry>
+            <Entry Margin="0,0,0,0"  Placeholder="DATE"></Entry>
+
+            <Button Text="save and pay" BackgroundColor="LightSkyBlue" Clicked="Button_Clicked"></Button>
+                <Button Text="List All Cards"  BackgroundColor="LightSkyBlue" Clicked="Button_Clicked_1" ></Button>
+            
+            <Label x:Name="pay" Margin="0,0,0,0" FontSize="20" FontAttributes="Italic"></Label>
+            
+            <ListView x:Name="card_List_View">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="{Binding ID}"></Label>
+                                <Label FontSize="20" Text="{Binding CardNo}"></Label>
+                                <Label FontSize="20" Text="{Binding OwnerName}"></Label>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            
+          
+            
+        </StackLayout>
+            
+        
+        
+
+    </ContentPage.Content>
+</ContentPage>

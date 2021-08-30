@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileProjectx.AppPages.ShopPage" 
+             Title="Shop"
+             IconImageSource="shop.png"
+             >
+            
+    <ContentPage.Content>
+
+        
+
+            <StackLayout Grid.Row="0" Grid.Column="0" > 
+                <Label Text="Click The Images For Choose" FontSize="25" HorizontalTextAlignment="Center" HorizontalOptions="FillAndExpand" ></Label>
+                <Frame HasShadow="True" BackgroundColor="Beige">
+                <StackLayout>
+                    <StackLayout HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+                        <StackLayout.GestureRecognizers >
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" NumberOfTapsRequired="1"></TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                        <Image Source="coffe.jpg" x:Name="foto" HeightRequest="25" ></Image>
+                        <Label x:Name="label" Text="Latte"></Label>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_1"  NumberOfTapsRequired="1"></TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                            <Image Source="americ.png" x:Name="foto1" HeightRequest="25" ></Image>
+                        <Label x:Name="label1" Text="Americano"></Label>
+                    </StackLayout>
+                        <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_2"  NumberOfTapsRequired="1"></TapGestureRecognizer>
+                            </StackLayout.GestureRecognizers>
+                            <Image Source="colm.jpg" x:Name="foto2" HeightRequest="25" ></Image>
+                            <Label x:Name="label2" Text="CoolLime"></Label>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_3"  NumberOfTapsRequired="1"></TapGestureRecognizer>
+                            </StackLayout.GestureRecognizers>
+                            <Image Source="cap.jpg" x:Name="foto3" HeightRequest="25" ></Image>
+                            <Label x:Name="label3" Text="Cappucino"></Label>
+                        </StackLayout>
+                        <StackLayout>
+                        <Button Clicked="Button_Clicked"  Text="Save Your Coffe" BackgroundColor="#5eba7d"></Button>
+                            <Image VerticalOptions="Start" HorizontalOptions="Start"  Source="shop.png" HeightRequest="20"></Image>
+                            <Label x:Name="bas"></Label>
+                        </StackLayout>
+                    </StackLayout>
+                </Frame>
+            <StackLayout>
+                <Frame BackgroundColor="Beige">
+                     <StackLayout>
+                    <StackLayout HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+                        <StackLayout.GestureRecognizers >
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_4"  NumberOfTapsRequired="1"></TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                        <Image Source="cheees.jpg" x:Name="radi1" HeightRequest="25" ></Image>
+                        <Label x:Name="labela" Text="Cheescake"></Label>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_5"  NumberOfTapsRequired="1"></TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                            <Image Source="pasta.jpg" x:Name="radi2" HeightRequest="25" ></Image>
+                        <Label x:Name="labelb" Text="Pasta"></Label>
+                    </StackLayout>
+                        <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_6"  NumberOfTapsRequired="1"></TapGestureRecognizer>
+                            </StackLayout.GestureRecognizers>
+                            <Image Source="piee.jpg" x:Name="radi3" HeightRequest="25" ></Image>
+                            <Label x:Name="labelc" Text="Pie"></Label>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_7"  NumberOfTapsRequired="1"></TapGestureRecognizer>
+                            </StackLayout.GestureRecognizers>
+                            <Image Source="brow.png" x:Name="radi4" HeightRequest="25" ></Image>
+                            <Label x:Name="labeld" Text="Brownie"></Label>
+                        </StackLayout>
+                       
+                        <StackLayout>
+                            <Button Clicked="Button_Clicked_1" Text="Save Your Dessert Food" BackgroundColor="#5eba7d"></Button>
+                            <Image VerticalOptions="Start" HorizontalOptions="Start"  Source="shop.png" HeightRequest="20"></Image>
+                            <Label x:Name="basx"></Label>
+                           
+                        </StackLayout>
+                        
+                    </StackLayout>
+                    
+                </Frame>
+            </StackLayout>
+            </StackLayout>
+
+       
+        
+    </ContentPage.Content>
+</ContentPage>

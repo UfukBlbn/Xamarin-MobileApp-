@@ -1,0 +1,79 @@
+@string/appbar_scrolling_view_behavior;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+alpha;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromleft.xml
+alpha;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\anim\exittoleft.xml
+android.support.design.widget.AppBarLayout;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.AppBarLayout;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
+android.support.design.widget.AppBarLayout;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\layout\shellcontent.xml
+android.support.design.widget.BottomNavigationView;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\layout\bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
+android.support.design.widget.CoordinatorLayout;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\layout\shellcontent.xml
+android.support.design.widget.TabLayout;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
+android.support.design.widget.TabLayout;obj\Debug\90\res\layout\tabbar.xml
+android.support.v7.widget.RecyclerView;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
+android.support.v7.widget.Toolbar;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
+android.support.v7.widget.Toolbar;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\layout\shellcontent.xml
+android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\toolbar.xml
+attr;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\values\attrs.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+cache-path;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\39\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\drawable\calendar_bg_selector.xml
+color;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\values\colors.xml
+color;obj\Debug\90\res\values\colors.xml
+declare-styleable;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\values\attrs.xml
+dimen;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\values\dimens.xml
+external-cache-path;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\39\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\39\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+FrameLayout;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\layout\bottomtablayout.xml
+include;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\layout\month.xml
+item;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\values\styles.xml
+item;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\drawable\calendar_bg_selector.xml
+item;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\values\styles.xml
+LinearLayout;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\layout\bottomtablayout.xml
+paths;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\39\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+RelativeLayout;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\layout\calendar_pager_layout.xml
+RelativeLayout;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\layout\calendar_picker.xml
+resources;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\values\attrs.xml
+resources;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\values\strings.xml
+resources;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\values\styles.xml
+resources;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\values\attrs.xml
+resources;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\values\colors.xml
+resources;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\values\dimens.xml
+resources;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\values\strings.xml
+resources;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\values\styles.xml
+resources;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\45\jl\res\values\strings.xml
+resources;obj\Debug\90\res\values\colors.xml
+resources;obj\Debug\90\res\values\styles.xml
+selector;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\drawable\calendar_bg_selector.xml
+set;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromleft.xml
+set;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromright.xml
+set;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\anim\exittoleft.xml
+set;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\anim\exittoright.xml
+string;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\values\strings.xml
+string;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\values\strings.xml
+string;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\45\jl\res\values\strings.xml
+style;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\values\styles.xml
+style;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\values\styles.xml
+style;obj\Debug\90\res\values\styles.xml
+TextView;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\layout\calendar_pager_layout.xml
+TextView;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\layout\month.xml
+translate;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromleft.xml
+translate;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromright.xml
+translate;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\anim\exittoleft.xml
+translate;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
+XLabs.Forms.Controls.MonoDroid.TimesSquare.CalendarArrowView;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\layout\calendar_pager_layout.xml
+XLabs.Forms.Controls.MonoDroid.TimesSquare.CalendarArrowView;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\layout\calendar_picker.xml
+XLabs.Forms.Controls.MonoDroid.TimesSquare.CalendarCellView;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\layout\week.xml
+XLabs.Forms.Controls.MonoDroid.TimesSquare.CalendarGridView;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\layout\month.xml
+XLabs.Forms.Controls.MonoDroid.TimesSquare.CalendarPickerView;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\layout\calendar_picker.xml
+XLabs.Forms.Controls.MonoDroid.TimesSquare.CalendarPickerView;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\layout\dialog.xml
+XLabs.Forms.Controls.MonoDroid.TimesSquare.CalendarRowView;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\layout\month.xml
+XLabs.Forms.Controls.MonoDroid.TimesSquare.CalendarRowView;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\layout\week.xml
+XLabs.Forms.Controls.MonoDroid.TimesSquare.MonthView;C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx.Android\obj\Debug\90\lp\44\jl\res\layout\month.xml

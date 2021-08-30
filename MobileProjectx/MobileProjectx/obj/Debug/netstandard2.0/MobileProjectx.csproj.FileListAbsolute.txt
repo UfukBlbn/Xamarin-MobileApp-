@@ -1,0 +1,41 @@
+C:\Users\casper\source\repos\MobileProjectx\MobileProjectx\MobileProjectx\bin\Debug\netstandard2.0\MobileProjectx.deps.json
+C:\Users\casper\source\repos\MobileProjectx\MobileProjectx\MobileProjectx\bin\Debug\netstandard2.0\MobileProjectx.dll
+C:\Users\casper\source\repos\MobileProjectx\MobileProjectx\MobileProjectx\bin\Debug\netstandard2.0\ref\MobileProjectx.dll
+C:\Users\casper\source\repos\MobileProjectx\MobileProjectx\MobileProjectx\bin\Debug\netstandard2.0\MobileProjectx.pdb
+C:\Users\casper\source\repos\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\MobileProjectx.csprojAssemblyReference.cache
+C:\Users\casper\source\repos\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\casper\source\repos\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\casper\source\repos\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\MobileProjectx.AssemblyInfoInputs.cache
+C:\Users\casper\source\repos\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\MobileProjectx.AssemblyInfo.cs
+C:\Users\casper\source\repos\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\MobileProjectx.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\casper\source\repos\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\MobileProjectx.dll
+C:\Users\casper\source\repos\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\ref\MobileProjectx.dll
+C:\Users\casper\source\repos\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\MobileProjectx.pdb
+C:\Users\casper\source\repos\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\AppPages\BasketPage.xaml.g.cs
+C:\Users\casper\source\repos\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\AppPages\HomePage.xaml.g.cs
+C:\Users\casper\source\repos\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\AppPages\MenuPage.xaml.g.cs
+C:\Users\casper\source\repos\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\AppPages\MenuPage2.xaml.g.cs
+C:\Users\casper\source\repos\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\AppPages\PaymentPage.xaml.g.cs
+C:\Users\casper\source\repos\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\AppPages\ShopPage.xaml.g.cs
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\bin\Debug\netstandard2.0\MobileProjectx.deps.json
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\bin\Debug\netstandard2.0\MobileProjectx.dll
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\bin\Debug\netstandard2.0\ref\MobileProjectx.dll
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\bin\Debug\netstandard2.0\MobileProjectx.pdb
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\MobileProjectx.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\MobileProjectx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\AppPages\BasketPage.xaml.g.cs
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\AppPages\HomePage.xaml.g.cs
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\AppPages\MenuPage.xaml.g.cs
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\AppPages\MenuPage2.xaml.g.cs
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\AppPages\PaymentPage.xaml.g.cs
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\AppPages\ShopPage.xaml.g.cs
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\MobileProjectx.AssemblyInfoInputs.cache
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\MobileProjectx.AssemblyInfo.cs
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\MobileProjectx.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\MobileProjectx.dll
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\ref\MobileProjectx.dll
+C:\Users\casper\Desktop\UFUK BLBN\Xamarin\Xamarin\Ufuk-Yasin-Balaban-160201043-Project&Task\MobileProjectx\MobileProjectx\MobileProjectx\obj\Debug\netstandard2.0\MobileProjectx.pdb
